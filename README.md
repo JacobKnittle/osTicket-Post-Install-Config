@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img width="388" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/7c60fae3-f52b-478c-9c15-59e70e06fa42">
 </p>
 
-4.) From there you want to navigate to Admin Panel -> Agents -> Roles -> Add New Role. Under definition, name the role Supreme Admin and permissions select all the permissions in each section and then add role.
+4.) From there you want to navigate to Admin Panel -> Agents -> Roles -> Add New Role. Under definition, name the role Supreme Admin and permissions select all the permissions in each section and then add the role.
 <p>
   
 <img width="385" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/5c439094-dcc3-4a92-9fa4-58de1e170ee0">
@@ -47,3 +47,28 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img width="355" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/355fb950-dfe7-4329-b0c6-bc4575752e00">
 
+6.) Next while still in the Agents tab move to Teams -> Add Team -> put the Name as: "Level II Support" and save the changes.
+
+7.) Proceed to the Settings tab -> User Settings -> and uncheck require registration so that anyone can make anonymous tickets and save changes.
+
+<p>
+  <img width="484" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/d89a0f8b-3da2-48c0-bad9-4cd3ab223c74">
+
+</p>
+
+8.) Next we are going to the agents (workers for handling tickets) so proceed to the Agents tab. We will then add two new agents Jane and John by selecting Add New Agent and filling in the name, email, username, and select Set Password to make a password (deselect require password change and remember this info like always). Switch to the Access tab put them under System Administrators and Supreme Admin and Level II Support under the teams tab. Now you can create your Agent.
+
+<p>
+  <img width="488" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/425133f7-9f35-4f9b-add6-7eedfecdcb8e">
+
+</p>
+
+<p>
+  <img width="487" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/f6fb971a-3ce4-49fa-a201-3387ad4b6225">
+
+</p>
+
+<p>
+  <img width="486" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/daf8e638-7b55-49be-bda3-f45165c0091f">
+
+</p>
