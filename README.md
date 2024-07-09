@@ -87,4 +87,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 
+11.) Lastly, we are going to configure help topics so that our users can categorize their tickets. Start by making sure you are in manage still and select help topics and select Add New Help Topic. The four topics we will create are Business, Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
+
 
