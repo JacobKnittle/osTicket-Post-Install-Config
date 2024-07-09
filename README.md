@@ -72,3 +72,19 @@ This tutorial outlines the post-install configuration of the open-source help de
   <img width="486" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/daf8e638-7b55-49be-bda3-f45165c0091f">
 
 </p>
+
+9.) We will now go to the Agent Panel at the top and create some users. Select Add User then fill out the email address and full name then click Add User.
+
+<p>
+  
+<img width="488" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/daa17cb6-a84d-4c27-a129-d14fde717344">
+</p>
+
+10.) Now return the Admin Panel -> Manage -> SLA. We are going to create three SLAs that show different priority plans for tickets that we create. Select Add New SLA Plan and make three SLAs including Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours).
+
+<p>
+  <img width="484" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/40759fa1-2674-45b2-8633-ded30b49e359">
+
+</p>
+
+
