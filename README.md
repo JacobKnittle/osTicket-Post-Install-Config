@@ -43,4 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 
-5.)
+5.) Make sure you are still in Admin Panel -> agents -> then navigate to departments. Select add new department and name it System Administrators then create the department.
+
+<img width="355" alt="image" src="https://github.com/JacobKnittle/osTicket-Post-Install-Config/assets/124555008/355fb950-dfe7-4329-b0c6-bc4575752e00">
+
